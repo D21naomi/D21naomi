@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @D21naomi
+- 👀 I’m interested in fast projects
+- 🌱 I’m currently learning Three.js
